@@ -1,0 +1,12 @@
+.vs/
+Debug/
+**/Debug/
+*.user
+*.exe
+*.pdb
+*.obj
+*.ilk
+*.log
+*.tlog/
+*.recipe
+*.lastbuildstate
